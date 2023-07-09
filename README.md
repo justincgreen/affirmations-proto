@@ -1,1 +1,1 @@
-# Affirmations Prototype
+# Affirmation Cards Prototype
